@@ -1,7 +1,7 @@
-#Description du projet
+# Description du projet
 Listes d'aliments divers
-#Auteurs
+# Auteurs
 MATOSKA David <br>
 MONTAUT Sylvestre
-#Objectifs
+# Objectifs
 Apprendre a utiliser git et gitHub
