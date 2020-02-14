@@ -1,5 +1,6 @@
 Pomme
 Poire
-Banane
-Mangue
+Ananas
+Framboise
+Casis
 Cerise
